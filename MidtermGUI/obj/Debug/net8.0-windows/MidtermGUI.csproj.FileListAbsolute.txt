@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\MidtermGUI\bin\Debug\net8.0-windows\MidtermGUI.exe
+C:\Users\user\source\repos\MidtermGUI\bin\Debug\net8.0-windows\MidtermGUI.deps.json
+C:\Users\user\source\repos\MidtermGUI\bin\Debug\net8.0-windows\MidtermGUI.runtimeconfig.json
+C:\Users\user\source\repos\MidtermGUI\bin\Debug\net8.0-windows\MidtermGUI.dll
+C:\Users\user\source\repos\MidtermGUI\bin\Debug\net8.0-windows\MidtermGUI.pdb
+C:\Users\user\source\repos\MidtermGUI\obj\Debug\net8.0-windows\MidtermGUI.Form1.resources
+C:\Users\user\source\repos\MidtermGUI\obj\Debug\net8.0-windows\MidtermGUI.Properties.Resources.resources
+C:\Users\user\source\repos\MidtermGUI\obj\Debug\net8.0-windows\MidtermGUI.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MidtermGUI\obj\Debug\net8.0-windows\MidtermGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MidtermGUI\obj\Debug\net8.0-windows\MidtermGUI.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MidtermGUI\obj\Debug\net8.0-windows\MidtermGUI.AssemblyInfo.cs
+C:\Users\user\source\repos\MidtermGUI\obj\Debug\net8.0-windows\MidtermGUI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MidtermGUI\obj\Debug\net8.0-windows\MidtermGUI.dll
+C:\Users\user\source\repos\MidtermGUI\obj\Debug\net8.0-windows\refint\MidtermGUI.dll
+C:\Users\user\source\repos\MidtermGUI\obj\Debug\net8.0-windows\MidtermGUI.pdb
+C:\Users\user\source\repos\MidtermGUI\obj\Debug\net8.0-windows\MidtermGUI.genruntimeconfig.cache
+C:\Users\user\source\repos\MidtermGUI\obj\Debug\net8.0-windows\ref\MidtermGUI.dll
